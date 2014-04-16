@@ -8,8 +8,10 @@ published: true
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
 
-    <title>Melhores Imóveis</title>
+    <title>{{ site.seo_title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="{{ site.meta_description }}">
+    <meta name="keywords" content="{{ site.meta_keywords }}">
 
     {{ 'bootstrap.css' | stylesheet_tag }}
     {{ 'bootstrap-glyphicons.css' | stylesheet_tag }}
@@ -23,756 +25,160 @@ published: true
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/samples/apple-touch-icon-114x114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/samples/apple-touch-icon-72x72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/samples/apple-touch-icon-precomposed.png">
+
+    <script src="//api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.js"></script>
+    <link href="//api.tiles.mapbox.com/mapbox.js/v1.6.2/mapbox.css" rel="stylesheet" />
   </head>
   <body>
 
-    <div class="navbar navbar-fixed-top" role="navigation">
+    <div class="navbar navbar-default navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
+            <span class="sr-only">NAVEGAÇÃO</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
 
-          <a class="navbar-brand" href="#">Melhores Imóveis</a>
+          <a class="navbar-brand" href="#">{{ site.seo_title }}</a>
         </div>
 
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="#">Encontre seu Imóvel</a></li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Simule seu Financiamento <b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="#">Banco do Brasil</a></li>
-              <li><a href="#">Caixa Econômica</a></li>
-              <li><a href="#">Itaú</a></li>
-              <li class="divider"></li>
-              <li><a href="#">Ajuda</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Serviços</a></li>
-          <li><a href="#">Sobre nós</a></li>
-          <li><a href="#">Contato</a></li>
-
-        </ul>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">Encontre seu imóvel</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Simule seu financiamento <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Caixa Econômica</a></li>
+                <li><a href="#">Banco do Brasil</a></li>
+                <li><a href="#">Itaú</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sobre nós <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Escritórios</a></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="#">Trabalhe conosco</a></li>
+              </ul>
+            </li>
+            <li><a href="#contact">Fale conosco</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#"><i class="glyphicon glyphicon-earphone"></i> (41) 9932-3319</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
       </div>
     </div>
 
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
-      <div class="container">
-        <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
-      </div>
-    </div>
+    <!-- Map -->
+    <div class="map slide">
+      <div class="map-inner" id="map">
+        <div class="item active">
 
-        <div class="container-fluid" style="background-color:#e8e8e8">
-        <div class="container container-pad" id="property-listings">
+          <div class="container">
+            <div class="map-caption well col-md-4 col-md-offset-8">
 
-            <div class="row">
-              <div class="col-md-12">
-                <h1>Million Dollar Home Listings</h1>
-                <p>A snippet I recently used to display homes for a local brokerage.  Focused more on images when accessed through mobile</p>
-              </div>
-            </div>
-
-            <div class="row">
-                <div class="col-sm-6">
-
-                    <!-- Begin Listing: 609 W GRAVERS LN-->
-                    <div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 property-listing">
-                        <div class="media">
-                            <a class="pull-left" href="#" target="_parent">
-                            <img alt="image" class="img-responsive" src="http://images.prd.mris.com/image/V2/1/Yu59d899Ocpyr_RnF0-8qNJX1oYibjwp9TiLy-bZvU9vRJ2iC1zSQgFwW-fTCs6tVkKrj99s7FFm5Ygwl88xIA.jpg"></a>
-
-                            <div class="clearfix visible-sm"></div>
-
-                            <div class="media-body fnt-smaller">
-                                <a href="#" target="_parent"></a>
-
-                                <h4 class="media-heading">
-                                  <a href="#" target="_parent">$1,975,000 <small class="pull-right">609 W Gravers Ln</small></a></h4>
-
-
-                                <ul class="list-inline mrg-0 btm-mrg-10 clr-535353">
-                                    <li>4,820 SqFt</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>5 Beds</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>5 Baths</li>
-                                </ul>
-
-                                <p class="hidden-xs">Situated between fairmount
-                                park and the prestigious philadelphia cricket
-                                club, this beautiful 2+ acre property is truly
-                                ...</p><span class="fnt-smaller fnt-lighter fnt-arial">Courtesy of HS Fox & Roach-Chestnut Hill
-                                Evergreen</span>
-                            </div>
-                        </div>
-                    </div><!-- End Listing-->
-
-                    <!-- Begin Listing: 218 LYNNEBROOK LN-->
-                    <div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 property-listing">
-                        <div class="media">
-                            <a class="pull-left" href="#" target="_parent">
-                            <img alt="image" class="img-responsive" src="http://images.prd.mris.com/image/V2/1/zMjCkcFeFDXDAP8xDhbD9ZmrVL7oGkBvSnh2bDBZ6UB5UHXa3_g8c6XYhRY_OxgGaMBMehiTWXDSLzBMaIzRhA.jpg"></a>
-
-                            <div class="clearfix visible-sm"></div>
-
-                            <div class="media-body fnt-smaller">
-                                <a href="#" target="_parent"></a>
-
-                                <h4 class="media-heading">
-                                  <a href="#" target="_parent">$1,975,000 <small class="pull-right">218 Lynnebrook Ln</small></a></h4>
-
-
-                                <ul class="list-inline mrg-0 btm-mrg-10 clr-535353">
-                                    <li>6,959 SqFt</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>6 Beds</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>5 Baths</li>
-                                </ul>
-
-                                <p class="hidden-xs">Impressively positioned
-                                overlooking 3.5 captivating acres, designated
-                                as "significant" by the chestnut hill
-                                historical s...</p><span class="fnt-smaller fnt-lighter fnt-arial">Courtesy of HS Fox & Roach-Blue Bell</span>
-                            </div>
-                        </div>
-                    </div><!-- End Listing-->
-
-                    <!-- Begin Listing: 209 CHESTNUT HILL AVE-->
-                    <div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 property-listing">
-                        <div class="media">
-                            <a class="pull-left" href="#" target="_parent">
-                            <img alt="image" class="img-responsive" src="http://images.prd.mris.com/image/V2/1/iwn7qH9r9OPnqTaTTxxb8PBzQHk2EiHU2PBBntt041AZsVsGY-SeUexTMLgRcYSJukrKOwHaYnTVXAsk6RdSmA.jpg"></a>
-
-                            <div class="clearfix visible-sm"></div>
-
-                            <div class="media-body fnt-smaller">
-                                <a href="#" target="_parent"></a>
-
-                                <h4 class="media-heading">
-                                  <a href="#" target="_parent">$1,599,999 <small class="pull-right">209 Chestnut Hill ve</small></a></h4>
-
-
-                                <ul class="list-inline mrg-0 btm-mrg-10 clr-535353">
-                                    <li>16,581 SqFt</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>8 Beds</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>4 Baths</li>
-                                </ul>
-
-                                <p class="hidden-xs">Built in 1909 by
-                                pittsburgh steel magnate henry a. laughlin,
-                                greylock is a classic chestnut hill stone
-                                mansion once cons...</p><span class="fnt-smaller fnt-lighter fnt-arial">Courtesy of ng and Foster-Devon</span>
-                            </div>
-                        </div>
-                    </div><!-- End Listing-->
-
-                    <!-- Begin Listing: 704 SAINT GEORGES ST-->
-                    <div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 property-listing">
-                        <div class="media">
-                            <a class="pull-left" href="#" target="_parent">
-                            <img alt="image" class="img-responsive" src="http://images.prd.mris.com/image/V2/1/7IZk2HTN0AcHnIb7VCvisTUc3kTbn0UyHQlVAlwkNLM3_8UNN8pcgy9u6KVNoRGGH_kdUlpYehdbqzctRNUebg.jpg"></a>
-
-                            <div class="clearfix visible-sm"></div>
-
-                            <div class="media-body fnt-smaller">
-                                <a href="#" target="_parent"></a>
-
-                                <h4 class="media-heading">
-                                  <a href="#" target="_parent">$1,595,000 <small class="pull-right">704 Saint Georges St</small></a></h4>
-
-
-                                <ul class="list-inline mrg-0 btm-mrg-10 clr-535353">
-                                    <li>0 SqFt</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>4 Beds</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>5 Baths</li>
-                                </ul>
-
-                                <p class="hidden-xs">Blake development is proud
-                                to offer the second of two distinctly unique
-                                homes located on one of the most desirable
-                                stree...</p><span class="fnt-smaller fnt-lighter fnt-arial">Courtesy of HS Fox & Roach-Chestnut Hill
-                                Evergreen</span>
-                            </div>
-                        </div>
-                    </div><!-- End Listing-->
-
-
-
+              <form class="form-horizontal" role="form">
+                <div class="form-group">
+                  <label for="inputEmail3" class="col-sm-4 control-label">Tipo de Negócio</label>
+                  <div class="col-sm-8">
+                    <select class="form-control">
+                      <option>Locação</option>
+                      <option>Venda</option>
+                      <option>Lançamento</option>
+                      <option>Empreendimento</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label for="inputPassword3" class="col-sm-4 control-label">Cidade</label>
+                  <div class="col-sm-8">
+                    <select class="form-control">
+                      <option>-</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label for="inputPassword3" class="col-sm-4 control-label">Bairro</label>
+                  <div class="col-sm-8">
+                    <select class="form-control">
+                      <option>-</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label for="inputPassword3" class="col-sm-4 control-label">Tipo da Propriedade</label>
+                  <div class="col-sm-8">
+                    <select class="form-control">
+                      <option>Casa</option>
+                      <option>Apartamento</option>
+                    </select>
+                  </div>
                 </div>
 
-                <div class="col-sm-6">
+                <div class="form-group">
+                  <div class="col-sm-offset-2 col-sm-10">
+                    <button type="submit" class="btn btn-default">Sign in</button>
+                  </div>
+                </div>
+              </form>
 
-                    <!-- Begin Listing: 1220-32 N HOWARD ST-->
-                    <div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 property-listing">
-                        <div class="media">
-                            <a class="pull-left" href="#" target="_parent">
-                            <img alt="image" class="img-responsive" src="http://images.prd.mris.com/image/V2/1/vGoNjc2jHGb87GlnnDQlf6LxeOUgIOn0bL6Wvn1nEnig2Ntq6W7xN5cOQBZZeNxl9O42DOkHUw0LNnj1ZB2KHA.jpg"></a>
-
-                            <div class="clearfix visible-sm"></div>
-
-                            <div class="media-body fnt-smaller">
-                                <a href="#" target="_parent"></a>
-
-                                <h4 class="media-heading">
-                                  <a href="#" target="_parent">$1,500,000 <small class="pull-right">1220-32 N Howard St</small></a></h4>
-
-
-                                <ul class="list-inline mrg-0 btm-mrg-10 clr-535353">
-                                    <li>4,900 SqFt</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>1 Beds</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>1 Baths</li>
-                                </ul>
-
-                                <p class="hidden-xs">A once in a lifetime
-                                opportunity to own a unique live / work space
-                                in one of philadelphia's most popular
-                                neighborhoods. ...</p><span class="fnt-smaller fnt-lighter fnt-arial">Courtesy of ll Banker Preferred-Philadelphia</span>
-                            </div>
-                        </div>
-                    </div><!-- End Listing-->
-
-                    <!-- Begin Listing: 9006 CREFELD ST-->
-                    <div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 property-listing">
-                        <div class="media">
-                            <a class="pull-left" href="#" target="_parent">
-                            <img alt="image" class="img-responsive" src="http://images.prd.mris.com/image/V2/1/uLp58OH37CTPHxXcgJXYw8zT2u3xg_2XIbFndB6J0WTSAStGBaEV6YsdAseSZTKAdthm0OzG-Ca_EIkoXIEBxw.jpg"></a>
-
-                            <div class="clearfix visible-sm"></div>
-
-                            <div class="media-body fnt-smaller">
-                                <a href="#" target="_parent"></a>
-
-                                <h4 class="media-heading">
-                                  <a href="#" target="_parent">$1,295,000 <small class="pull-right">9006 Crefeld St</small></a></h4>
-
-
-                                <ul class="list-inline mrg-0 btm-mrg-10 clr-535353">
-                                    <li>7,672 SqFt</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>7 Beds</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>5 Baths</li>
-                                </ul>
-
-                                <p class="hidden-xs">Located in chestnut hill,
-                                recently named by the american planning
-                                association as one of america's top 10 great
-                                neighborh...</p><span class="fnt-smaller fnt-lighter fnt-arial">Courtesy of RE/MAX Services</span>
-                            </div>
-                        </div>
-                    </div><!-- End Listing-->
-
-                    <!-- Begin Listing: 701 W ALLENS LN-->
-                    <div class="brdr bgc-fff pad-10 box-shad btm-mrg-20 property-listing">
-                        <div class="media">
-                            <a class="pull-left" href="#" target="_parent">
-                            <img alt="image" class="img-responsive" src="http://images.prd.mris.com/image/V2/1/K12MLs4i-e2rsQ-rA6DoCwlysXSrEXZyHtCFkrOLsvK1y2mvbUrlmw5pMXX1laXlnY9_0VU82YeS3EucwIchtg.jpg"></a>
-
-                            <div class="clearfix visible-sm"></div>
-
-                            <div class="media-body fnt-smaller">
-                                <a href="#" target="_parent"></a>
-
-                                <h4 class="media-heading">
-                                  <a href="#" target="_parent">$1,175,000 <small class="pull-right">701 W Allens Ln</small></a></h4>
-
-
-                                <ul class="list-inline mrg-0 btm-mrg-10 clr-535353">
-                                    <li>9,824 SqFt</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>8 Beds</li>
-
-                                    <li style="list-style: none">|</li>
-
-                                    <li>5 Baths</li>
-                                </ul>
-
-                                <p class="hidden-xs">A once in a lifetime
-                                opportunity! live in this grand home with its
-                                stunning entry and staircase, bedroom suites,
-                                firepla...</p><span class="fnt-smaller fnt-lighter fnt-arial">Courtesy of HS Fox & Roach-Chestnut Hill
-                                Evergreen</span>
-                            </div>
-                        </div>
-                    </div><!-- End Listing-->
-                </div><!-- End Col -->
-            </div><!-- End row -->
-        </div><!-- End container -->
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
+    <!-- End Map -->
+
+
+
+
 
     <div class="container">
 
+      <!-- Main component for a primary marketing message or call to action -->
+      <div class="jumbotron">
+        <h1>Navbar example</h1>
+        <p>This example is a quick exercise to illustrate how the default, static and fixed to top navbar work. It includes the responsive CSS and HTML, so it also adapts to your viewport and device.</p>
+        <p>To see the difference between static and fixed top navbars, just scroll.</p>
+        <p>
+          <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
+        </p>
+      </div>
 
-      <!--Bootstrap 3 Scaffolding
-      ================================================== -->
-      <section>
-        <div class="page-header">
-          <h1>Grid</h1>
-          <p class="lead">Bootstrap 3 scaffolding has changed for improved display on mobile devices</p>
-        </div>
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12"><div class="well"><p>col-lg-12</p></div></div>
-          </div>
-          <div class="row">
-            <div class="col-lg-4"><div class="well"><p>col-lg-4</p></div></div>
-            <div class="col-lg-4"><div class="well"><p>col-lg-4</p></div></div>
-            <div class="col-lg-4"><div class="well"><p>col-lg-4</p></div></div>
-          </div>
-          <div class="row">
-            <div class="col-lg-6 col-sm-6"><div class="well"><p>col-lg-6</p></div></div>
-            <div class="col-lg-6 col-sm-6"><div class="well"><p>col-lg-6</p></div></div>
-          </div>
-          <div class="row">
-            <div class="col-lg-9 col-sm-6"><div class="well">col-lg-9 / col-sm-6</div></div>
-            <div class="col-lg-3 col-sm-6"><div class="well">col-lg-3 / col-sm-6</div></div>
-          </div>
-        </div>
-      </section>
-
-      <!-- Bootstrap 3 Buttons
-      ================================================== -->
-      <section id="buttons">
-        <div class="page-header">
-          <h1>Bootstrap 3 Buttons</h1>
-          <p class="lead">With no gradients and borders, Bootstrap 3.0 buttons now have a flatter look</p>
-        </div>
-        <h2>Button Sizes (4)</h2>
-        <ul class="the-buttons clearfix">
-            <li><a class="btn btn-xs btn-primary" href="#">btn-xs</a></li>
-            <li><a class="btn btn-sm btn-primary" href="#">btn-sm</a></li>
-            <li><a class="btn btn-primary" href="#">btn</a></li>
-            <li><a class="btn btn-lg btn-primary" href="#">btn-lg</a></li>
-        </ul>
-        <h2>Button Classes</h2>
-        <ul class="the-buttons clearfix">
-          <li><a class="btn btn-default" href="#">Default</a></li>
-          <li><a class="btn btn-primary" href="#">Primary</a></li>
-          <li><a class="btn btn-success" href="#">Success</a></li>
-          <li><a class="btn btn-info" href="#">Info</a></li>
-          <li><a class="btn btn-warning" href="#">Warning</a></li>
-          <li><a class="btn btn-danger" href="#">Danger</a></li>
-          <li><a class="btn btn-primary disabled" href="#">Disabled</a></li>
-          <li><a class="btn btn-link" href="#">Link</a></li>
-          <li>
-            <!-- Single button -->
-            <div class="btn-group">
-              <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-                Dropdown <span class="caret"></span>
-              </button>
-              <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li><a href="#">Separated link</a></li>
-              </ul>
-            </div>
-          </li>
-          <li><a class="btn btn-info" href="#"><i class="glyphicon glyphicon-map-marker"></i> Icon</a></li>
-        </ul>
-      </section>
+    </div> <!-- /container -->
 
 
 
-      <!-- Forms
-      ================================================== -->
-      <section id="forms">
-        <div class="page-header">
-          <h2>Forms</h2>
-        </div>
-        <div class="row">
-          <div class="col-lg-8">
-            <h3>Form Inline</h3>
-            <form class="form-inline well">
-              <div class="col-md-3">
-                  <input type="text" class="form-control" placeholder="Email">
-              </div>
-              <div class="col-md-3">
-                <input type="password" class="form-control" placeholder="Password">
-              </div>
-              <div class="checkbox">
-                <label>
-                  <input type="checkbox"> Remember me
-                </label>
-              </div>
-              <button type="submit" class="btn btn-default">Sign in</button>
-            </form>
-            <h3>Form Horizontal</h3>
-            <form class="form-horizontal well">
-              <fieldset>
-                <legend>Bootstrap 3 Inputs</legend>
-                <div class="control-group">
-                  <label class="control-label" for="input01">Text input</label>
-                  <div class="controls">
-                    <input type="text" class="form-control input-xlarge" id="input01">
-                    <p class="help-block">In addition to freeform text, any HTML5 text-based input appears like so.</p>
-                  </div>
-                </div>
-                <div class="control-group">
-                  <label class="control-label" for="optionsCheckbox">Checkbox</label>
-                  <div class="controls">
-                    <label class="checkbox">
-                      <input type="checkbox" id="optionsCheckbox" value="option1">
-                      Option one is this and that—be sure to include why it's great
-                    </label>
-                  </div>
-                </div>
-                <div class="control-group">
-                  <label class="control-label" for="select01">Select list</label>
-                  <div class="controls">
-                    <select id="select01" class="form-control">
-                      <option>something</option>
-                      <option>2</option>
-                      <option>3</option>
-                      <option>4</option>
-                      <option>5</option>
-                    </select>
-                  </div>
-                </div>
-                <div class="control-group">
-                  <label class="control-label" for="multiSelect">Multicon-select</label>
-                  <div class="controls">
-                    <select multiple="multiple" id="multiSelect" class="form-control">
-                      <option>1</option>
-                      <option>2</option>
-                      <option>3</option>
-                      <option>4</option>
-                      <option>5</option>
-                    </select>
-                  </div>
-                </div>
-                <div class="control-group">
-                  <label class="control-label" for="fileInput">File input</label>
-                  <div class="controls">
-                    <input class="form-control input-file" id="fileInput" type="file">
-                  </div>
-                </div>
-                <div class="control-group">
-                  <label class="control-label" for="textarea">Textarea</label>
-                  <div class="controls">
-                    <textarea class="form-control input-xlarge" id="textarea" rows="3"></textarea>
-                  </div>
-                </div>
-                <div class="control-group">
-                  <label class="control-label" for="optionsCheckbox2">Disabled checkbox</label>
-                  <div class="controls">
-                    <label class="checkbox">
-                      <input type="checkbox" id="optionsCheckbox2" value="option1" disabled="">
-                      This is a disabled checkbox
-                    </label>
-                  </div>
-                </div>
-                <div class="control-group warning">
-                  <label class="control-label" for="inputWarning">Input with warning</label>
-                  <div class="controls">
-                    <input type="text" id="inputWarning" class="form-control">
-                    <span class="help-inline">Something may have gone wrong</span>
-                  </div>
-                </div>
-                <hr>
-                <div class="form-actions">
-                  <button type="submit" class="btn btn-primary">Save changes</button>
-                  <button type="reset" class="btn">Cancel</button>
-                </div>
-              </fieldset>
-            </form>
-          </div>
-        </div>
-      </section>
-
-      <!-- Tables
-      ================================================== -->
-      <section id="tables">
-        <div class="page-header">
-        <h1>Tables</h1>
-        </div>
-        <table class="table table-bordered table-striped table-hover">
-          <thead>
-            <tr>
-              <th>#</th>
-              <th>First Name</th>
-              <th>Last Name</th>
-              <th>Username</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>1</td>
-              <td>Mark</td>
-              <td>Otto</td>
-              <td>@mdo</td>
-            </tr>
-            <tr>
-              <td>2</td>
-              <td>Jacob</td>
-              <td>Thornton</td>
-              <td>@fat</td>
-            </tr>
-            <tr>
-              <td>3</td>
-              <td>Larry</td>
-              <td>the Bird</td>
-              <td>@twitter</td>
-            </tr>
-          </tbody>
-        </table>
-      </section>
-
-      <!-- Miscellaneous
-      ================================================== -->
-      <section id="miscellaneous">
-        <div class="page-header">
-        <h1>Miscellaneous</h1>
-        </div>
-        <div class="row">
-          <div class="col-lg-4">
-            <h3 id="breadcrumbs">Breadcrumbs</h3>
-            <ul class="breadcrumb">
-              <li><a href="#">Home</a> <span class="divider"></span></li>
-              <li><a href="#">Library</a> <span class="divider"></span></li>
-              <li class="active">Data</li>
-            </ul>
-          </div>
-          <div class="col-lg-4">
-            <h3 id="pagination">Pagination</h3>
-            <ul class="pagination">
-              <li><a href="#">«</a></li>
-              <li><a href="#">1</a></li>
-              <li><a href="#">2</a></li>
-              <li><a href="#">3</a></li>
-              <li><a href="#">4</a></li>
-              <li><a href="#">5</a></li>
-              <li><a href="#">»</a></li>
-            </ul>
-          </div>
-          <div class="col-lg-4">
-            <h3 id="pager">Pagers</h3>
-            <ul class="pager">
-              <li><a href="#">Previous</a></li>
-              <li><a href="#">Next</a></li>
-            </ul>
-            <ul class="pager">
-              <li class="previous disabled"><a href="#">? Older</a></li>
-              <li class="next"><a href="#">Newer ?</a></li>
-            </ul>
-          </div>
-        </div>
-
-        <!-- Navs
-        ================================================== -->
-        <div class="row">
-          <div class="col-lg-4">
-            <h3 id="tabs">Tabs</h3>
-            <ul class="nav nav-tabs">
-              <li class="active"><a href="#A" data-toggle="tab">Section 1</a></li>
-              <li><a href="#B" data-toggle="tab">Section 2</a></li>
-              <li><a href="#C" data-toggle="tab">Section 3</a></li>
-            </ul>
-            <div class="tabbable">
-              <div class="tab-content">
-                <div class="tab-pane active" id="A">
-                  <p>I'm in Section A.</p>
-                </div>
-                <div class="tab-pane" id="B">
-                  <p>Howdy, I'm in Section B.</p>
-                </div>
-                <div class="tab-pane" id="C">
-                  <p>What up girl, this is Section C.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <h3 id="pills">Pills</h3>
-            <ul class="nav nav-pills">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#">Profile</a></li>
-              <li class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Dropdown <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                  <li><a href="#">Action</a></li>
-                  <li><a href="#">Another action</a></li>
-                  <li><a href="#">Something else here</a></li>
-                  <li class="divider"></li>
-                  <li><a href="#">Separated link</a></li>
-                </ul>
-              </li>
-              <li class="disabled"><a href="#">Disabled link</a></li>
-            </ul>
-          </div>
-          <div class="col-lg-4">
-            <h3 id="list">Nav Lists</h3>
-            <div class="well" style="padding: 8px 0;">
-              <ul class="nav nav-list">
-                <li class="nav-header">List header</li>
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">Library</a></li>
-                <li><a href="#">Applications</a></li>
-                <li class="divider"></li>
-                <li><a href="#">Help</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-        <!-- Labels
-        ================================================== -->
-          <div class="row">
-            <div class="col-lg-4">
-              <h3 id="labels">Labels</h3>
-              <span class="label">Default</span>
-              <span class="label label-success">Success</span>
-              <span class="label label-warning">Warning</span>
-              <span class="label label-danger">Danger</span>
-              <span class="label label-info">Info</span>
-            </div>
-            <div class="col-lg-4">
-              <h3 id="badges">Badges</h3>
-              <span class="badge">Default</span>
-            </div>
-            <div class="col-lg-4">
-              <h3 id="badges">Progress bars</h3>
-              <div class="progress">
-                <div class="progress-bar progress-bar-info" style="width: 20%"></div>
-              </div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-success" style="width: 40%"></div>
-              </div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-warning" style="width: 60%"></div>
-              </div>
-              <div class="progress">
-                <div class="progress-bar progress-bar-danger" style="width: 80%"></div>
-              </div>
-            </div>
-          </div>
-          <br>
-
-        <!-- Panel & ListGroups
-        ================================================== -->
-        <hr>
-        <h2 id="panels">Bootstrap 3 Panels</h2>
-        <div class="row">
-          <div class="col-lg-4">
-            <div class="panel panel-default">
-              <div class="panel-heading">Panel heading</div>
-              <div class="panel-body">Hello. This is the Panel content.</div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="panel panel-primary">
-              <div class="panel-heading">Panel primary</div>
-              <div class="panel-body">Panels are new in BS3.</div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="panel panel-success">
-              <div class="panel-heading">Panel success</div>
-              <div class="panel-body">You can use contextual classes.</div>
-            </div>
-          </div>
-        </div>
-
-        <!-- ListGroups
-        ================================================== -->
-        <hr>
-          <h2 id="panels">Bootstrap 3 List Groups</h2>
-          <div class="row">
-            <div class="col-lg-4">
-              <ul class="list-group">
-                <li class="list-group-item">List item 1</li>
-                <li class="list-group-item">List item 2</li>
-                <li class="list-group-item">Mobile-first</li>
-                <li class="list-group-item">Responsive</li>
-                <li class="list-group-item">Lightweight</li>
-              </ul>
-            </div>
-            <div class="col-lg-4">
-              <ul class="list-group">
-                <li class="list-group-item"><span class="glyphicon glyphicon-chevron-right"></span> List item 1</li>
-                <li class="list-group-item"><span class="glyphicon glyphicon-chevron-right"></span> List item 2</li>
-                <li class="list-group-item"><span class="glyphicon glyphicon-chevron-right"></span> Mobile-first</li>
-                <li class="list-group-item"><span class="glyphicon glyphicon-chevron-right"></span> Responsive</li>
-                <li class="list-group-item"><span class="glyphicon glyphicon-chevron-right"></span> Lightweight</li>
-              </ul>
-            </div>
-            <div class="col-lg-4">
-              <div class="list-group">
-                <a href="#" class="list-group-item active">Linked list group<span class="glyphicon glyphicon-chevron-right"></span></a>
-                <a href="#" class="list-group-item">Dapibus ac facilisis in<span class="glyphicon glyphicon-chevron-right"></span></a>
-                <a href="#" class="list-group-item">Morbi leo risus<span class="glyphicon glyphicon-chevron-right"></span></a>
-                <a href="#" class="list-group-item">Porta ac consectetur ac<span class="glyphicon glyphicon-chevron-right"></span></a>
-                <a href="#" class="list-group-item">Vestibulum at eros<span class="glyphicon glyphicon-chevron-right"></span></a>
-              </div>
-            </div>
-          </div>
-
-        <!-- Well Sizes
-        ================================================== -->
-        <hr>
-          <h2>Well Sizes</h2>
-          <div class="row">
-            <div class="col-lg-12">
-               <div class="well well-sm">
-                  .well-sm
-                </div>
-                <div class="well">
-                  .well
-                </div>
-               <div class="well well-lg">
-                  .well-lg
-                </div>
-            </div>
-          </div>
-        <hr>
-      </section>
-      <hr>
-    </div>
     <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     {{ 'bootstrap.min.js' | javascript_tag }}
     <script type='text/javascript'>
       $(document).ready(function() {
       });
     </script>
+    <script>
+var map = L.mapbox.map('map', 'examples.map-y7l23tes')
+    .addControl(L.mapbox.geocoderControl('examples.map-y7l23tes'))
+    .setView([37.9, -77], 5);
+
+var myLayer = L.mapbox.featureLayer().addTo(map);
+
+var feature = {
+    type: 'Feature',
+    geometry: {
+        type: 'Point',
+        coordinates: [-77, 37.9]
+    },
+    properties: {
+        title: 'Example Marker',
+        description: 'This is a single marker.'
+    }
+};
+
+myLayer.setGeoJSON(feature);
+</script>
   </body>
 </html>
