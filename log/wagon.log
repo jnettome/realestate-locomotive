@@ -1,0 +1,4316 @@
+# Logfile created on 2014-04-15 21:19:33 -0300 by logger.rb/1.2.8
+[0;97;49mStarted GET "/" at 2014-04-15 21:19:41 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:23:51 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:23:52 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:25:49 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:25:49 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:26:23 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:26:31 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 21:27:11 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:27:11 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 21:27:22 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 21:27:24 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:27:24 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:27:34 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:27:34 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:28:06 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 21:28:24 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:28:26 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:28:31 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:28:31 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 21:28:50 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 21:28:54 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 21:28:55 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:29:04 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:29:04 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 21:29:10 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 21:29:14 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:31:01 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:31:06 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:32:16 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:32:16 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:32:58 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:33:00 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:33:16 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:33:17 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:33:53 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:33:54 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:34:10 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:34:20 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 21:34:28 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:34:28 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 21:35:04 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 21:35:05 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:35:07 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 21:38:15 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 21:38:22 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:00:48 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 22:02:13 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:02:14 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:02:17 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:02:17 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:04:21 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:05:09 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 22:06:46 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:06:50 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:06:53 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:07:08 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:07:09 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:07:17 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 22:07:39 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 22:08:27 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:08:29 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:08:41 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:08:41 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:09:20 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:09:20 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:09:34 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:09:34 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:09:36 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:09:48 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:09:49 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:10:37 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:10:42 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:10:51 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:10:52 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:11:02 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:11:02 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:12:47 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:12:50 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:13:03 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:14:28 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 22:16:06 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:16:11 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:17:32 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:17:34 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:17:47 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:17:47 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 22:17:51 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:17:52 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:18:35 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:18:35 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:18:36 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:18:47 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:18:47 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:18:48 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:18:50 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:18:57 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:18:57 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:19:08 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:19:09 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:19:10 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:21:21 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:22:17 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:22:20 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:22:21 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:22:51 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:23:07 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:23:38 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:23:38 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:23:41 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:25:11 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:25:27 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:26:01 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 22:26:09 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 22:27:58 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:28:01 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:31:04 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 22:32:16 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:32:25 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:32:49 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:32:50 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:33:06 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-15 22:33:17 -0300
+* Reloaded "pages", "snippets" at 2014-04-15 22:33:18 -0300
+[0;97;49mStarted GET "/" at 2014-04-15 22:33:19 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 22:33:21 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-15 23:02:29 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:46:26 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:47:15 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:47:22 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:47:23 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:47:30 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:47:40 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:47:40 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:47:45 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:47:45 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:47:53 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:47:54 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:48:09 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:48:09 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:48:15 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:48:32 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:48:37 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:48:37 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:48:41 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:48:41 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:50:16 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:50:25 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:50:27 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:51:52 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:51:54 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:52:02 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:52:03 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:52:04 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:53:25 -0300
+* Reloaded "pages", "snippets" at 2014-04-16 09:53:57 -0300
+* Reloaded "pages", "snippets" at 2014-04-16 09:54:38 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:54:49 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:55:20 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:55:20 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:55:22 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 09:55:22 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:55:32 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 09:55:35 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 09:58:08 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 10:09:35 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 10:09:53 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 10:10:17 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 10:10:27 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 10:10:33 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 10:11:29 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 10:12:25 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 10:13:12 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 10:14:41 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 10:14:58 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 10:16:23 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 20:52:24 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/index.html" at 2014-04-16 20:52:30 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/index.html" at 2014-04-16 20:53:47 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 20:54:17 -0300
+[0;97;49mStarted GET "/index.html" at 2014-04-16 20:54:17 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/font-awesome/css/font-awesome.css" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.css" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/flexslider.css" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 5.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/css/realocation.css" at 2014-04-16 20:54:18 -0300[0m
+[0;97;49mStarted GET "/index.html" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 37.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 20:54:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 20:54:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 35.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 38.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 20:54:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 8.9ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 20:54:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 12.1ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 20:54:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 13.7ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 14.9ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.4ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 16.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:54:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:54:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:54:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/font-awesome/css/font-awesome.css" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.css" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/flexslider.css" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/css/realocation.css" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 20:54:22 -0300[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 5.5ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:54:22 -0300[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 13.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 14.9ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 44.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 46.0ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 43.1ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 47.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 20.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 11.7ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 12.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 13.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 16.7ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 19.5ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 15.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 16.5ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 49.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 48.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 48.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 20:54:22 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 14.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 20:54:22 -0300[0m
+[0;32;49mCompleted 404 Not Found in 14.4ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.2ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.1ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 15.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:54:23 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 20:57:10 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:57:11 -0300[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:57:11 -0300[0m
+[0;32;49mCompleted 404 Not Found in 4.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 5.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:57:11 -0300[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.9ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 55.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 53.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 52.0ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:57:11 -0300[0m
+[0;32;49mCompleted 404 Not Found in 60.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 20:57:11 -0300[0m
+[0;32;49mCompleted 404 Not Found in 24.0ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 20:57:11 -0300[0m
+[0;32;49mCompleted 404 Not Found in 22.1ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 18.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:57:11 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 21.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 18.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 16.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 44.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 46.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 20:57:11 -0300[0m
+[0;32;49mCompleted 404 Not Found in 46.1ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 20:57:11 -0300[0m
+[0;32;49mCompleted 404 Not Found in 16.5ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 16.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 20:57:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.6ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 14.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:57:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:57:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:57:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:57:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:57:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:57:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:57:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:57:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:57:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 20:57:13 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:57:14 -0300[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:57:14 -0300[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 5.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:57:14 -0300[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 9.9ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 14.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 16.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:57:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 15.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 19.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:57:14 -0300[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 57.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 54.9ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.3ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 18.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 20:57:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 18.4ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 23.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 20:57:14 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 22.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 14.4ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.6ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 14.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 20:57:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 15.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 45.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 20:57:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 47.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 14.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 16.9ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 18.1ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 16.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:57:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 20:57:39 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 20:58:18 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 20:58:19 -0300[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:58:19 -0300[0m
+[0;32;49mCompleted 404 Not Found in 4.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:58:19 -0300[0m
+[0;32;49mCompleted 404 Not Found in 7.2ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:58:19 -0300[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.2ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:58:19 -0300[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:58:19 -0300[0m
+[0;32;49mCompleted 404 Not Found in 17.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 47.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 46.9ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:58:19 -0300[0m
+[0;32;49mCompleted 404 Not Found in 49.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:58:19 -0300[0m
+[0;32;49mCompleted 404 Not Found in 52.8ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:58:19 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 20:58:19 -0300[0m
+[0;32;49mCompleted 404 Not Found in 17.2ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 19.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 22.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.3ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 20:58:19 -0300[0m
+[0;32;49mCompleted 404 Not Found in 28.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:58:19 -0300[0m
+[0;32;49mCompleted 404 Not Found in 18.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 20:58:19 -0300[0m
+[0;32;49mCompleted 404 Not Found in 43.4ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 42.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 41.6ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 45.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 20:58:19 -0300[0m
+[0;32;49mCompleted 404 Not Found in 45.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 19.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 20:58:19 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 19.8ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 14.5ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 13.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 12.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:58:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 20:58:24 -0300
+* Reloaded "pages", "snippets" at 2014-04-16 20:58:28 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 20:58:28 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:58:28 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 39.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 20:58:28 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:58:28 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:58:28 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:58:28 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 10.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:58:28 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:58:28 -0300[0m
+[0;32;49mCompleted 404 Not Found in 4.3ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:58:28 -0300[0m
+[0;32;49mCompleted 404 Not Found in 7.5ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:58:28 -0300[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:58:28 -0300[0m
+[0;32;49mCompleted 404 Not Found in 15.3ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:58:28 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 20:58:28 -0300[0m
+[0;32;49mCompleted 404 Not Found in 16.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 20:58:28 -0300[0m
+[0;32;49mCompleted 404 Not Found in 15.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 20:58:28 -0300[0m
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 22.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 23.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 19.4ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 17.5ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 50.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 49.3ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 20:58:29 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 48.8ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.4ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 17.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 18.5ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 18.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 26.4ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/cloth-alike.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.7ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/corrugation.png" at 2014-04-16 20:58:29 -0300[0m
+[0;97;49mStarted GET "/img/patterns/small/diagonal-noise.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 16.8ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 17.7ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/dust.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 19.7ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/fabric-plaid.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/farmer.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 54.2ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/grid-noise.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 52.0ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/lghtmesh.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 52.9ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/pw-maze-white.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 21.1ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/no-pattern.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 21.6ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/cloth-alike-dark.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/corrugation-dark.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 20.5ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/diagonal-noise-dark.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 19.8ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/dust-dark.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 24.2ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/fabric-plaid-dark.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 24.7ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/farmer-dark.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 24.1ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.4ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/grid-noise-dark.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 20.2ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/lghtmesh-dark.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 27.1ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/pw-maze-white-dark.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/no-pattern-dark.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/img/map.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 56.6ms
+
+[0m
+[0;97;49mStarted GET "/img/pattern-dots.png" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 52.4ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 47.5ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 51.0ms
+
+[0m
+[0;97;49mStarted GET "/img/hex.png" at 2014-04-16 20:58:29 -0300[0m
+[0;32;49mCompleted 404 Not Found in 20.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 22.0ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 28.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:58:29 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 20:58:53 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 6.0ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:58:54 -0300[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 7.4ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 11.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 19.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 33.8ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 31.2ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 27.1ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 28.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 14.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 22.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 20:58:54 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 17.0ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 15.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 13.5ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 18.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 18.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 22.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 18.3ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 18.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 21.6ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 56.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 52.0ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/cloth-alike.png" at 2014-04-16 20:58:54 -0300[0m
+[0;97;49mStarted GET "/img/patterns/small/corrugation.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 10.5ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/diagonal-noise.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 6.8ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/dust.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 18.5ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/fabric-plaid.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 19.1ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 14.0ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/farmer.png" at 2014-04-16 20:58:54 -0300[0m
+[0;97;49mStarted GET "/img/patterns/small/grid-noise.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/lghtmesh.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/pw-maze-white.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 19.8ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/no-pattern.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 18.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 17.4ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.7ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/cloth-alike-dark.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 24.4ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/corrugation-dark.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 25.1ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/diagonal-noise-dark.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/dust-dark.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 52.0ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/fabric-plaid-dark.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 53.3ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/farmer-dark.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 54.1ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/grid-noise-dark.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 21.0ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.7ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/lghtmesh-dark.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.7ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/pw-maze-white-dark.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 23.1ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/no-pattern-dark.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/img/map.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 21.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 13.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 19.4ms
+
+[0m
+[0;97;49mStarted GET "/img/pattern-dots.png" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 19.2ms
+
+[0m
+[0;97;49mStarted GET "/img/hex.png" at 2014-04-16 20:58:54 -0300[0m
+[0;32;49mCompleted 404 Not Found in 13.7ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 10.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 28.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:58:54 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:59:05 -0300[0m
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:59:05 -0300[0m
+[0;32;49mCompleted 404 Not Found in 39.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 34.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:59:05 -0300[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 45.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 23.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 20:59:05 -0300[0m
+[0;32;49mCompleted 404 Not Found in 24.4ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 25.9ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 20:59:05 -0300[0m
+[0;32;49mCompleted 404 Not Found in 31.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 20:59:05 -0300[0m
+[0;32;49mCompleted 404 Not Found in 27.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 26.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 22.9ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.0ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 21.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 22.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 20:59:05 -0300[0m
+[0;32;49mCompleted 404 Not Found in 22.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 20:59:05 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 43.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 11.7ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 13.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 13.0ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 13.4ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/cloth-alike.png" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/corrugation.png" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/diagonal-noise.png" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/dust.png" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/fabric-plaid.png" at 2014-04-16 20:59:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/farmer.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/grid-noise.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/lghtmesh.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/pw-maze-white.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/no-pattern.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/cloth-alike-dark.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/corrugation-dark.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/diagonal-noise-dark.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/dust-dark.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 10.3ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/fabric-plaid-dark.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/farmer-dark.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/grid-noise-dark.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/lghtmesh-dark.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 9.3ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/pw-maze-white-dark.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/no-pattern-dark.png" at 2014-04-16 20:59:06 -0300[0m
+[0;32;49mCompleted 404 Not Found in 6.1ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/map.png" at 2014-04-16 20:59:06 -0300[0m
+[0;32;49mCompleted 404 Not Found in 5.6ms
+
+[0m
+[0;97;49mStarted GET "/img/pattern-dots.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/hex.png" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 11.6ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 11.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 20:59:06 -0300[0m
+[0;32;49mCompleted 404 Not Found in 13.5ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 46.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 20:59:06 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 44.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 7.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:00:11 -0300[0m
+[0;32;49mCompleted 404 Not Found in 5.5ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:00:11 -0300[0m
+[0;32;49mCompleted 404 Not Found in 12.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 9.0ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 25.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 15.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:00:11 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 21:00:11 -0300[0m
+[0;32;49mCompleted 404 Not Found in 11.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 13.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:00:11 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:00:11 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 45.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 44.2ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 49.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 20.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 19.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 19.5ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/cloth-alike.png" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/corrugation.png" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/diagonal-noise.png" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.3ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/dust.png" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/fabric-plaid.png" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/farmer.png" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 7.4ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/grid-noise.png" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/lghtmesh.png" at 2014-04-16 21:00:11 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 6.6ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/pw-maze-white.png" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/no-pattern.png" at 2014-04-16 21:00:12 -0300[0m
+[0;97;49mStarted GET "/img/patterns/small/cloth-alike-dark.png" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/corrugation-dark.png" at 2014-04-16 21:00:12 -0300[0m
+[0;32;49mCompleted 404 Not Found in 35.1ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 5.7ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/diagonal-noise-dark.png" at 2014-04-16 21:00:12 -0300[0m
+[0;97;49mStarted GET "/img/patterns/small/dust-dark.png" at 2014-04-16 21:00:12 -0300[0m
+[0;97;49mStarted GET "/img/patterns/small/fabric-plaid-dark.png" at 2014-04-16 21:00:12 -0300[0m
+[0;32;49mCompleted 404 Not Found in 16.7ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/farmer-dark.png" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/grid-noise-dark.png" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 19.0ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 18.5ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/lghtmesh-dark.png" at 2014-04-16 21:00:12 -0300[0m
+[0;32;49mCompleted 404 Not Found in 17.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 16.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 21.9ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/patterns/small/pw-maze-white-dark.png" at 2014-04-16 21:00:12 -0300[0m
+[0;32;49mCompleted 404 Not Found in 25.0ms
+
+[0m
+[0;97;49mStarted GET "/img/patterns/small/no-pattern-dark.png" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/map.png" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/img/pattern-dots.png" at 2014-04-16 21:00:12 -0300[0m
+[0;32;49mCompleted 404 Not Found in 18.7ms
+
+[0m
+[0;97;49mStarted GET "/img/hex.png" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 11.4ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.5ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 19.5ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 15.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 36.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:00:12 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:00:13 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 39.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 14.5ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 7.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:00:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 8.1ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 6.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 6.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 21:00:14 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:00:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 6.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:00:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 12.7ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 21:00:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 19.6ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 24.0ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 24.1ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 24.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:00:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:00:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:00:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:00:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:00:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:00:16 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:00:16 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:00:16 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:00:16 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:00:16 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 21:00:17 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 34.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 9.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:00:18 -0300[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 10.7ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:00:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 14.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:00:18 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:00:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 15.4ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:00:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 25.6ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 30.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 21.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 25.6ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:00:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 78.0ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 21:00:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 55.1ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:00:18 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:00:18 -0300[0m
+[0;32;49mCompleted 404 Not Found in 12.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.3ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.0ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 18.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 22.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:00:18 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:00:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:00:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:00:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:00:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 44.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:00:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:00:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:00:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:00:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:00:19 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 21:02:22 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 21:02:32 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 11.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 9.8ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 10.5ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:02:33 -0300[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 42.4ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 45.6ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 45.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 46.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 16.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 20.8ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.8ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 20.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 17.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 20.3ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 19.1ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 15.4ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 18.1ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 21.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 21:02:33 -0300[0m
+[0;32;49mCompleted 404 Not Found in 23.9ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 49.6ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 45.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:02:33 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:02:34 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:02:34 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:02:34 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:02:34 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 21:03:24 -0300
+* Reloaded "pages", "snippets" at 2014-04-16 21:03:45 -0300
+* Reloaded "pages", "snippets" at 2014-04-16 21:03:57 -0300
+* Reloaded "pages", "snippets" at 2014-04-16 21:04:54 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 21:04:55 -0300[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:04:55 -0300[0m
+[0;32;49mCompleted 404 Not Found in 5.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:04:55 -0300[0m
+[0;32;49mCompleted 404 Not Found in 7.3ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:04:55 -0300[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:04:55 -0300[0m
+[0;32;49mCompleted 404 Not Found in 15.9ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 18.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 17.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 22.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 22.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 21:04:55 -0300[0m
+[0;32;49mCompleted 404 Not Found in 19.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 26.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:04:55 -0300[0m
+[0;32;49mCompleted 404 Not Found in 21.6ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 22.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:04:55 -0300[0m
+[0;32;49mCompleted 404 Not Found in 55.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 55.0ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 49.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:04:55 -0300[0m
+[0;32;49mCompleted 404 Not Found in 21.5ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 18.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 21.6ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:04:55 -0300[0m
+[0;32;49mCompleted 404 Not Found in 19.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 21:04:55 -0300[0m
+[0;32;49mCompleted 404 Not Found in 18.4ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 16.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 16.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:04:55 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:04:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:04:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:04:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:04:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:04:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:04:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:04:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:04:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:04:56 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 21:05:13 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 21:05:14 -0300
+[0;97;49mStarted GET "/assets/js/jquery.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 9.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 37.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 7.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:05:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 4.2ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:05:14 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:05:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 9.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:05:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 15.0ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:05:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 17.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 15.9ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.7ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:05:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 21.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:05:14 -0300[0m
+[0;32;49mCompleted 404 Not Found in 26.9ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 19.6ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.0ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 14.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/isotope/jquery.isotope.min.js" at 2014-04-16 21:05:14 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.infobox.js" at 2014-04-16 21:05:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/gmap3.clusterer.js" at 2014-04-16 21:05:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/map.js" at 2014-04-16 21:05:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:05:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:05:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:05:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:05:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:05:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:05:15 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 21:07:03 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 21:07:04 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 5.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 8.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 5.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:07:05 -0300[0m
+[0;32;49mCompleted 404 Not Found in 8.5ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 21:07:05 -0300[0m
+[0;32;49mCompleted 404 Not Found in 6.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:07:05 -0300[0m
+[0;32;49mCompleted 404 Not Found in 11.3ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 43.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 21:07:05 -0300[0m
+[0;32;49mCompleted 404 Not Found in 48.0ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 49.4ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 16.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 19.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/transition.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/bootstrap-sass/vendor/assets/javascripts/bootstrap/collapse.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/jquery-bxslider/jquery.bxslider.min.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/libraries/flexslider/jquery.flexslider.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/jquery.chained.min.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/js/realocation.js" at 2014-04-16 21:07:05 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-04-16 21:08:28 -0300
+[0;97;49mStarted GET "/" at 2014-04-16 21:08:29 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:08:30 -0300[0m
+[0;32;49mCompleted 404 Not Found in 4.0ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:08:30 -0300[0m
+[0;32;49mCompleted 404 Not Found in 11.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:08:30 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 16.7ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.9ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:08:30 -0300[0m
+[0;32;49mCompleted 404 Not Found in 20.6ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 21.6ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 23.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 26.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 15.9ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 13.4ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 45.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:08:30 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:08:31 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:08:31 -0300[0m
+[0;32;49mCompleted 404 Not Found in 5.1ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:08:31 -0300[0m
+[0;32;49mCompleted 404 Not Found in 14.7ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 8.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/icons/single-home.png" at 2014-04-16 21:08:31 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/icons/flatblocks2.png" at 2014-04-16 21:08:31 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 5.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/icons/villa.png" at 2014-04-16 21:08:31 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/icons/building-area.png" at 2014-04-16 21:08:31 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/icons/apartment.png" at 2014-04-16 21:08:31 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 37.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/icons/family-house.png" at 2014-04-16 21:08:31 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/icons/cottage.png" at 2014-04-16 21:08:31 -0300[0m
+[0;32;49mCompleted 404 Not Found in 8.1ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/icons/house.png" at 2014-04-16 21:08:31 -0300[0m
+[0;97;49mStarted GET "/assets/img/icons/condo.png" at 2014-04-16 21:08:31 -0300[0m
+[0;32;49mCompleted 404 Not Found in 8.6ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/icons/flatblocks.png" at 2014-04-16 21:08:31 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/clusterer-transparent.png" at 2014-04-16 21:08:31 -0300[0m
+[0;32;49mCompleted 404 Not Found in 11.4ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 13.5ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 12.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 14.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/marker-transparent.png" at 2014-04-16 21:08:32 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-04-16 21:08:41 -0300[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/8.jpg" at 2014-04-16 21:08:42 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:08:42 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:08:42 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:08:42 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:08:42 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:08:42 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:08:42 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:08:42 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/6.jpg" at 2014-04-16 21:08:42 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:08:42 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:08:42 -0300[0m
+[0;32;49mCompleted 404 Not Found in 5.3ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:08:42 -0300[0m
+[0;97;49mStarted GET "/assets/img/hex.png" at 2014-04-16 21:08:42 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 13.1ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.6ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 21.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 19.5ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 24.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/5.jpg" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/1.jpg" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/2.jpg" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/9.jpg" at 2014-04-16 21:08:43 -0300[0m
+[0;32;49mCompleted 404 Not Found in 4.1ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/3.jpg" at 2014-04-16 21:08:43 -0300[0m
+[0;32;49mCompleted 404 Not Found in 14.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/10.jpg" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/7.jpg" at 2014-04-16 21:08:43 -0300[0m
+[0;32;49mCompleted 404 Not Found in 17.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 9.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/12.jpg" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/11.jpg" at 2014-04-16 21:08:43 -0300[0m
+[0;97;49mStarted GET "/assets/img/tmp/properties/medium/4.jpg" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 51.1ms
+
+[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 47.2ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 17.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 20.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/icons/flatblocks2.png" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/icons/building-area.png" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/icons/single-home.png" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/icons/flatblocks.png" at 2014-04-16 21:08:43 -0300[0m
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/icons/cottage.png" at 2014-04-16 21:08:43 -0300[0m
+[0;97;49mStarted GET "/assets/img/icons/villa.png" at 2014-04-16 21:08:43 -0300[0m
+[0;32;49mCompleted 404 Not Found in 10.8ms
+
+[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/icons/condo.png" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+[0;97;49mStarted GET "/assets/img/icons/family-house.png" at 2014-04-16 21:08:43 -0300[0m
+[0;97;49mStarted GET "/assets/img/icons/house.png" at 2014-04-16 21:08:43 -0300[0m
+[0;32;49mCompleted 404 Not Found in 17.6ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 17.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/icons/apartment.png" at 2014-04-16 21:08:43 -0300[0m
+Detecting locale EN
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 21.0ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 24.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 26.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/clusterer-transparent.png" at 2014-04-16 21:08:43 -0300[0m
+[0;32;49mCompleted 404 Not Found in 22.6ms
+
+[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 48.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/img/marker-transparent.png" at 2014-04-16 21:08:44 -0300[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
